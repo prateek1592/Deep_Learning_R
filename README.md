@@ -1,4 +1,4 @@
-Implementing deep neural networks in R, based on algorithms presented in Prof Andrew Ng's 'Deep Learning' specialization.
+Implementing deep neural networks in R, based on pseudocodes presented in Prof Andrew Ng's 'Deep Learning' specialization.
 
 The code (Self_NN_v5) allows for choices of:
 
